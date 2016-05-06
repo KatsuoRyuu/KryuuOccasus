@@ -1,0 +1,14 @@
+{
+    "name": "katsuo-ryuu/kryuu-occasus",
+    "description": "This modules lets you access the settings in zf by using the object way and targeting functions",
+    "license": "Ryuu Technology Free License",
+    "keywords": [
+        "zf2",
+        "Console"
+    ],
+    "homepage": "https://github.com/KatsuoRyuu/KryuuTemplateBuilder",
+    "require": {
+        "php": "^5.5 || ^7.0",
+        "zendframework/zendframework": "^2.5"
+    }
+}
